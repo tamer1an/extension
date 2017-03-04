@@ -38,3 +38,7 @@ jspm_packages
 .node_repl_history
 
 .idea/
+bdd-new-chrome-extension/dist/
+bdd-new-chrome-extension/app/scripts/
+tdd-new-chrome-extension/dist/
+tdd-new-chrome-extension/app/scripts/
