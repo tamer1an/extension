@@ -39,6 +39,7 @@ jspm_packages
 
 .idea/
 bdd-new-chrome-extension/dist/
+bdd-new-chrome-extension/app-react/lib/*
 bdd-new-chrome-extension/app/scripts/
 tdd-new-chrome-extension/dist/
 tdd-new-chrome-extension/app/scripts/
