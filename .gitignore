@@ -38,6 +38,7 @@ jspm_packages
 .node_repl_history
 
 .idea/
+bdd-new-chrome-extension/app/bower_components/
 bdd-new-chrome-extension/dist/
 bdd-new-chrome-extension/app-react/lib/*
 bdd-new-chrome-extension/app/scripts/
