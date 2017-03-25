@@ -2,9 +2,6 @@
   "name": "goflow",
   "private": true,
   "version": "0.0.0",
-  "dependencies": {
-    "rxjs": "^4.1.0"
-  },
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0"
