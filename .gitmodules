@@ -1,0 +1,3 @@
+[submodule "bdd-new-chrome-extension/app-react"]
+	path = bdd-new-chrome-extension/app-react
+	url = https://github.com/tamer1an/react-app-submodule.git
