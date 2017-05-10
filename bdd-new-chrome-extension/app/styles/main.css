@@ -6,3 +6,7 @@ body {
   width: 500px;
   color: #9da0a4;
 }
+
+#container {
+  height: 500px;
+}
